@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792390812027",
+    "project_id": "fitchat-a3e78",
+    "storage_bucket": "fitchat-a3e78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792390812027:android:25f9719024bffa91397dde",
+        "android_client_info": {
+          "package_name": "com.dinpran.fitchat.fitchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBgZvat2ADXa5fUiFcIDiAxZc2yhSsbXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
